@@ -1,0 +1,162 @@
+﻿  Animation.cpp
+  AssetManager.cpp
+  City.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\tile.h(62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\city.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\city.cpp(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\city.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\city.cpp(295): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\city.cpp(307): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+  GameState.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\tile.h(62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gui.h(110): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(26): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(26): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(79): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(107): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(108): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(168): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(169): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(307): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gamestate.cpp(315): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Gui.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gui.h(110): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gui.cpp(55): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  InputManager.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\inputmanager.cpp(11): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\inputmanager.cpp(10): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Main.cpp
+  MainMenuState.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\tile.h(62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\gui.h(110): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\mainmenustate.cpp(59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Map.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\tile.h(62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(94): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(95): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(184): warning C4018: '>=': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(185): warning C4018: '>=': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(260): warning C4018: '>=': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(262): warning C4018: '>=': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(264): warning C4018: '>=': signed/unsigned mismatch
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\map.cpp(266): warning C4018: '>=': signed/unsigned mismatch
+  SplashState.cpp
+  StateMechine.cpp
+  Tile.cpp
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\tile.h(62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\הזקן\documents\לימודים\oop2\oop2_project_meirborowski_betzalelmargalit_chagaibadichi\cities skylines\citiesskylines\tile.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CitiesSkyLines.vcxproj -> C:\Users\הזקן\Documents\לימודים\OOP2\oop2_project_MeirBorowski_BetzalelMargalit_chagaiBadichi\cities Skylines\x64\Debug\CitiesSkyLines.exe
